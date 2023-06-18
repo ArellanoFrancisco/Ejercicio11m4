@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio11</string>
+    <string name="botAndroid">bot Android</string>
+    <string name="plane">Turn of the fly mode</string>
+    <string name="update">Updating profile</string>
+    <string name="picGallery">Picture Saved to Gallery</string>
+    <string name="unlock5">Unlocked Level 5</string>
+    <string name="level4">Level 4 Completed</string>
+    <string name="musicP">Music Paused</string>
+</resources>

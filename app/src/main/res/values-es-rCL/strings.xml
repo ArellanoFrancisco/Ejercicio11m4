@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio11</string>
+    <string name="botAndroid">bot Android</string>
+    <string name="plane">Apagar el modo de vuelo</string>
+    <string name="update">Actualizando perfil</string>
+    <string name="picGallery">Imagen guardada en la galería</string>
+    <string name="unlock5">Nivel 5 desbloqueado</string>
+    <string name="level4">Nivel 4 completado</string>
+    <string name="musicP">Música en pausa</string>
+</resources>
